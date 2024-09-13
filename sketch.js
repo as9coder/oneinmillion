@@ -52,8 +52,8 @@ function draw()
 
 function randomiser(){
   gs= true;
- comp= Math.round(random(1, 1000000));
- player= Math.round(random(1, 1000000));
+ comp= Math.round(random(1, 1));
+ player= Math.round(random(1, 1));
 
 
 }
